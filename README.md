@@ -1,6 +1,6 @@
 # Valorant Tournament Simulator
 
-A Python project that simulates matches between professional Valorant teams.
+A simple Python program that simulates matches between professional Valorant teams.
 
 ## Features
 
